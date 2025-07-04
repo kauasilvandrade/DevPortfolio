@@ -22,11 +22,11 @@ O objetivo foi criar uma página de portfólio pessoal utilizando **HTML e CSS**
 
 ## 📸 Imagem do projeto
 
-![preview do site](./assets/preview.png) <!-- Substitua pelo caminho correto da imagem no seu projeto -->
+ 
 
 ## 🌐 Acesse o projeto online
 
-🔗 [Clique aqui para ver o site publicado](https://kauasilvandrade.github.io/NOME-DO-PROJETO)
+🔗 [Clique aqui para ver o site publicado](https://kauasilvandrade.github.io/DevPortfolio)
 
 ## 📌 Status do projeto
 
