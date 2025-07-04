@@ -1,0 +1,50 @@
+.contactSection {
+  padding-block: 128px 200px;
+
+  h2 {
+    margin-block: 8px;
+  }
+
+  p {
+    margin-bottom: 48px;
+  }
+
+  .contactSection__socialList {
+    li {
+      background-color: var(--gray-300);
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      padding: 20px;
+      width: 400px;
+      border-radius: 8px;
+      cursor: pointer;
+      border: 1px solid transparent;
+      transition: .2s;
+
+        &:hover {
+        border: 1px solid var(--blue);
+        
+          svg {
+            fill: var(--blue);
+          }
+
+        }
+      
+      svg {
+        margin-right: 16px;
+      }
+
+      span {
+          font: var(--text-md);
+      }
+
+      .arrowButton {
+        margin-left: auto;
+      }
+      
+    }
+
+  }
+
+}

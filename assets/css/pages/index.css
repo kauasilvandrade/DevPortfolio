@@ -1,0 +1,7 @@
+@import url(../global/global.css);
+
+/* PARTIALS */
+@import url(partials/introductionSection.css);
+@import url(partials/contactSection.css);
+@import url(partials/projectSection.css);
+@import url(partials/workSection.css);

@@ -1,0 +1,28 @@
+.workSection {
+  background-color: var(--gray-100);
+  padding-block: 88px 120px;
+
+  h2 {
+    margin-block: 8px 56px;
+  }
+
+  .wordkSection__works {
+    
+    div {
+      border: 1px solid var(--gray-600);
+      padding: 20px;
+      border-radius: 12px;
+
+      img {
+        height: 48px;
+        width: 48px;
+      }
+
+      h3 {
+        margin-block: 20px 8px;
+      }
+
+    }
+
+  }
+}

@@ -1,0 +1,49 @@
+.introductionSection {
+  background: url(../../../images/global/Background_Intro.png) no-repeat center;
+  background-size: cover;
+  
+  img {
+   width: 96px;
+   height: 96px;
+  }
+
+  .introductionSection__description {
+    margin-block: 56px 80px;
+    text-align: center;
+
+    span {
+      strong {
+        color: var(--red);
+      }
+    }
+
+    h1 {
+      margin-block: 8px 20px;
+      font: var(--title-lg);
+      color: var(--gray-600);
+    }
+
+  }
+  
+  .introductionSection__socialList {
+
+    li {
+      background-color: var(--gray-300);
+      padding: 8px 16px;
+      border-radius: 99px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font: var(--text-md);
+  
+      img {
+        height: 24px;
+        width: 24px;
+      }
+
+    }
+
+  }
+
+
+}
