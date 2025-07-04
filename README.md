@@ -22,7 +22,7 @@ O objetivo foi criar uma página de portfólio pessoal utilizando **HTML e CSS**
 
 ## 📸 Imagem do projeto
 
- 
+<img src="assets/images/global/fotoSite.png">
 
 ## 🌐 Acesse o projeto online
 
