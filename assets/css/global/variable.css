@@ -29,3 +29,10 @@
   --text-md: 400 16px/140% var(--maven-pro);
   --text-sm: 400 14px/140% var(--maven-pro);
 }
+
+
+@media (width <= 768px) {
+  :root {
+    --title-lg: 700 2.5rem/120% var(--asap);
+  }
+}

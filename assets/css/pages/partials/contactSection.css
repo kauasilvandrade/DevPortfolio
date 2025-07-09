@@ -49,3 +49,17 @@
   }
 
 }
+
+@media (width <= 768px) {
+  .contactSection {
+    & p {
+      text-align: center;
+    }
+    
+    & .contactSection__socialList {
+        li {
+            width: 330px;
+        }
+    }
+  }
+}
