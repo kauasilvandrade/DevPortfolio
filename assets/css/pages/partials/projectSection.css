@@ -1,12 +1,15 @@
 .projectsSection {
   padding-block: 72px 144px;
+  padding-inline: 1.5rem;
 
   h2 {
     margin-block: 8px 56px;
   }
 
   .projectsSection__projects {
-    width: 1040px;
+    max-width: 1040px;
+    width: 100%;
+    grid-template-columns: repeat(auto-fit, minmax(20.5rem, 1fr));
 
     figure {
       background-color: var(--gray-300);
@@ -21,7 +24,7 @@
       }
 
       img {
-        width: 306px;
+        width: 100%;
         height: 156px;
         object-fit: cover;
         border-radius: 8px;
